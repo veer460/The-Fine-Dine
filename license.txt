@@ -1,5 +1,5 @@
 WordPress - Web publishing software
-
+Developed by Viral Doshi.
 Copyright 2011-2023 by the contributors
 
 This program is free software; you can redistribute it and/or modify
